@@ -56,3 +56,6 @@ Besides all the fun, we're also about learning! We've included some prints in th
 
 ### Note:
 The point marked is interesting enough because can respond to sounds, haptic feedback or other things. 
+
+
+![](https://github.com/adl-jinx/GraphBuild/blob/main/iphone%20Graph%20Gif.gif)
