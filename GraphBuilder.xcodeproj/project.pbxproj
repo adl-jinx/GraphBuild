@@ -12,7 +12,6 @@
 		85A83CCA2A138BF9009ACD78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85A83CC92A138BF9009ACD78 /* Assets.xcassets */; };
 		85A83CCD2A138BF9009ACD78 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85A83CCC2A138BF9009ACD78 /* Preview Assets.xcassets */; };
 		85A83CD42A13F373009ACD78 /* StructData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A83CD32A13F373009ACD78 /* StructData.swift */; };
-		85A83CD62A140028009ACD78 /* Overlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A83CD52A140028009ACD78 /* Overlay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +21,6 @@
 		85A83CC92A138BF9009ACD78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85A83CCC2A138BF9009ACD78 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		85A83CD32A13F373009ACD78 /* StructData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructData.swift; sourceTree = "<group>"; };
-		85A83CD52A140028009ACD78 /* Overlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Overlay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 				85A83CC52A138BF8009ACD78 /* GraphBuilderApp.swift */,
 				85A83CC72A138BF8009ACD78 /* ContentView.swift */,
 				85A83CD32A13F373009ACD78 /* StructData.swift */,
-				85A83CD52A140028009ACD78 /* Overlay.swift */,
 				85A83CC92A138BF9009ACD78 /* Assets.xcassets */,
 				85A83CCB2A138BF9009ACD78 /* Preview Content */,
 			);
@@ -145,7 +142,6 @@
 			files = (
 				85A83CC82A138BF8009ACD78 /* ContentView.swift in Sources */,
 				85A83CC62A138BF8009ACD78 /* GraphBuilderApp.swift in Sources */,
-				85A83CD62A140028009ACD78 /* Overlay.swift in Sources */,
 				85A83CD42A13F373009ACD78 /* StructData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

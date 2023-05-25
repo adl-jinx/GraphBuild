@@ -9,15 +9,15 @@ import Foundation
 
 public struct DataPoint: Identifiable {
     public var id = UUID()
-    public var x: Double
-    public var y: Double
+    public var pointX: Double
+    public var pointY: Double
 }
 
 
 
 public let dataPoints: [DataPoint] = [
-DataPoint(x: 1, y: 1),
-DataPoint(x: 2, y: 2),
-DataPoint(x: 3, y: 3),
-DataPoint(x: 4, y: 4)
+DataPoint(pointX: 1, pointY: 1),
+DataPoint(pointX: 2, pointY: 2),
+DataPoint(pointX: 3, pointY: 3),
+DataPoint(pointX: 4, pointY: 4)
 ]
